@@ -85,7 +85,7 @@ Examen-domiciliario-de-R/
 2. Asegurarse de tener instaladas las librerías necesarias:
 
    ```
-   install.packages(c("dplyr", "tidyr", "ggplot2", "gapminder"))
+   install.packages(c("dplyr", "tidyr", "ggplot2"))
    
    ```
 
