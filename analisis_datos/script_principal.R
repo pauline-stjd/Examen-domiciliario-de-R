@@ -45,7 +45,7 @@ View(preg1)
 mejores <- preg1$player_name
 mejores
 
-# 2. ¿Cuál es la distribución de los partidos disputados por tipo de superficie (pista dura, tierra batida, hierba)
+# Pregunta 2. ¿Cuál es la distribución de los partidos disputados por tipo de superficie (pista dura, tierra batida, hierba)
 # según el circuito (ATP vs WTA)?
 
 library("ggplot2")
@@ -73,7 +73,7 @@ ggplot(data_wta, aes(x = surface, fill = surface)) +
   ) 
 
 
-# 3. ¿Cuáles son los porcentajes de victorias en cada tipo de superficie
+# Pregunta 3. ¿Cuáles son los porcentajes de victorias en cada tipo de superficie
 # de Grand Slam de los ganadores de cada Grand Slam?
 
 #Los ganadores y las ganadoras
