@@ -13,7 +13,7 @@ Este repositorio contiene la resolución práctica del examen de R. El trabajo e
 Para garantizar la modularidad y cumplir con los requerimientos del curso, el código se organiza de la siguiente manera:
 
 ```
-Pauline Elodie Saá Tejada - repo/
+Examen-domiciliario-de-R/
 |-- README.md
 |-- informe.pdf
 |-- analisis_datos/
