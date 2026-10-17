@@ -56,7 +56,7 @@ Examen-domiciliario-de-R/
 
     * Test de hipótesis (*paired t-test*) sobre la brecha de género en longevidad.
 
-    * Regresión múltiple controlando por el logaritmo del ingreso per cápita $\log(\text{income\_per\_person})$.
+    * Regresión múltiple controlando por el logaritmo del ingreso per cápita.
 
     * Modelo de 3 covariables socioeconómicas (mortalidad infantil, fecundidad e ingreso) previniendo la redundancia tautométrica.
 
